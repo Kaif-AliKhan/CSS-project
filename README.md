@@ -1,1 +1,2 @@
-This is a css project where i have created a spotify clone home web page
+# Spotify Clone
+Spotify clone home web page
